@@ -1,0 +1,8 @@
+ 3033 user1     3.7  4.3       2days /usr/local/matlab90/bin/glnxa6
+ 2177 user2    92.8  1.8       53:58 python train_from_predicted.py
+15980 user3    46.3  3.1      18days python3 src/main.py
+13938 user4     118  5.6       14:48 python3 resnet16.py --model resnet16
+21113 user5     156  2.2       1days python deep_learing/train.py
+ 8560 user6     161  0.8    03:01:17 python3 train-e2e-shared-layer.py
+ 5414 user7    66.5  0.9       40:26 python voc_2007_classification.py
+25246 user8     1.8  0.9    03:21:13 python3 model_.py --start_epoch 1

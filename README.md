@@ -23,7 +23,7 @@ optional arguments:
                         moderately used GPU, red - fully used GPU)
 ```
 
-Note: for backward compatibility, `nvidia-smi | nvidia-htop.py [-l [length]]` is also supported.
+Note: for backward compatibility, `nvidia-smi | nvhtop [-l [length]]` is also supported.
 
 ## Example output
 

@@ -6,7 +6,8 @@ A tool for enriching the output of `nvidia-smi` forked from [peci1/nvidia-htop](
 `pip install .`
 
 ## Usage
-```shell
+
+```
 usage: nvhtop [-h] [-l [COMMAND_LENGTH]] [-c]
 
 print GPU utilization with usernames and CPU stats for each GPU-utilizing
@@ -26,7 +27,9 @@ Note: for backward compatibility, `nvidia-smi | nvidia-htop.py [-l [length]]` is
 
 ## Example output
 
-```shell
+```
+$ nvhtop -l
+
 Mon May 21 15:06:35 2018
 +-----------------------------------------------------------------------------+
 | NVIDIA-SMI 390.25                 Driver Version: 390.25                    |
@@ -50,3 +53,7 @@ Mon May 21 15:06:35 2018
 |    2 25544 nevermin   10775MiB   108   2.0  python -m xxxxxxxxxxxxxxxxxxxxx |
 +-----------------------------------------------------------------------------+
 ```
+
+## Screenshot with output coloring
+
+![Screenshot](.github/screen.png)

@@ -60,4 +60,4 @@ Mon May 21 15:06:35 2018
 
 ## Screenshot with output coloring
 
-![Screenshot](.github/screen.png)
+![Screenshot](https://raw.githubusercontent.com/shunk031/nvhtop/master/.github/screen.png)

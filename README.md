@@ -2,7 +2,7 @@
 
 ![Python 3.7](https://img.shields.io/badge/python-3.7%2B-brightgreen.svg)
 [![Actions Status](https://github.com/shunk031/nvhtop/workflows/Python%20package/badge.svg)](https://github.com/shunk031/nvhtop/actions)
-
+![PyPI](https://img.shields.io/pypi/v/nvhtop)
 
 A tool for enriching the output of `nvidia-smi` forked from [peci1/nvidia-htop](https://github.com/peci1/nvidia-htop).
 

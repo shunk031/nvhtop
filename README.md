@@ -6,7 +6,7 @@
 
 A tool for enriching the output of `nvidia-smi` forked from [peci1/nvidia-htop](https://github.com/peci1/nvidia-htop).
 
-# Install
+## Install
 
 ```shell
 $ pip install nvhtop

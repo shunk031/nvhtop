@@ -14,6 +14,7 @@ setup(
     description="A tool for enriching the output of nvidia-smi",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    url="https://github.com/shunk031/nvhtop",
     install_requires=["termcolor"],
     entry_points={"console_scripts": ["nvhtop=nvhtop.run:run"]},
     classifiers=[
